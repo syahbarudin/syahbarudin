@@ -1,7 +1,9 @@
 ## Hi there 👋
 
+Di bawah ini merupakan ringkasan bahasa yang paling sering saya gunakan
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syahbarudin&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syahbarudin&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **syahbarudin/syahbarudin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
