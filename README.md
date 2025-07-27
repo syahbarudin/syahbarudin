@@ -7,7 +7,7 @@ Seorang developer yang suka mencoba hal baru.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syahbarudin&layout=pie&theme=transparent&hide_border=true)
 
 ---
-
+![My Skills](https://skillicons.dev/icons?i=js,html,css,php,laravel,scss,tailwind)
 ---
 <!--
 **syahbarudin/syahbarudin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
