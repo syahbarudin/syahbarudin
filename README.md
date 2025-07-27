@@ -7,9 +7,6 @@ Seorang developer yang suka mencoba hal baru.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syahbarudin&layout=pie&theme=transparent&hide_border=true)
 
 ---
-### 🏆 Peringkat Bahasa Pemrograman Saya
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=syahbarudin&theme=dracula&row=1&column=7&margin-w=15&margin-h=15&no-frame=true)
 
 ---
 <!--
