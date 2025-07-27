@@ -1,9 +1,17 @@
-## Hi there 👋
+### 👋 Halo, saya Syahbarudin!
+Seorang developer yang suka mencoba hal baru.
 
-Di bawah ini merupakan ringkasan bahasa yang paling sering saya gunakan </br>
+---
+### 📊 Statistik & Bahasa yang Saya Gunakan
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syahbarudin&layout=pie&theme=transparent&hide_border=true)
 
+---
+### 🏆 Peringkat Bahasa Pemrograman Saya
 
+![Trophy](https://github-profile-trophy.vercel.app/?username=syahbarudin&theme=dracula&row=1&column=7&margin-w=15&margin-h=15&no-frame=true)
+
+---
 <!--
 **syahbarudin/syahbarudin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
